@@ -5,6 +5,16 @@ Projeto teste para fazer web scraping de listagem de episódios de podcasts.
 
 > A finalidade deste projeto é utilizar seus conhecimentos em sistemas back-end e/ou front-end para desenvolver os requisitos funcionais e não-funcionais da aplicação.
 
+## tecnologias utilizadas
+
+Back-end:
+- Java
+- Spring
+- Swagger
+
+Front-end:
+`a definir `
+
 
 ## github projects
 O projeto está em etapa de elaboração das tarefas no github projetcs. Solicite acesso caso deseje participar.
